@@ -7,12 +7,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [PocketBase](https://pocketbase.io/)
 - [node](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
+- [git](https://git-scm.com/)
 
 ## Getting Started
 
 Clone this repository:
 ```bash
-git clone https://github.com/RadekPelikan/webnotes.git
+git clone https://github.com/RadekPelikan/webnotes.git &&
 cd webnotes
 ```
 
