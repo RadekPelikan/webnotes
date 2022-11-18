@@ -24,7 +24,7 @@ npm i
 
 Start a pocketbase:
 ```bash
-./pocketbase.exe
+./pocketbase.exe serve
 ```
 
 Run the development server:
