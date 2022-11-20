@@ -9,7 +9,7 @@ export type ClientApiProps = {
   serverIP: string;
 };
 
-export type note = {
+export type Note = {
   title: string;
   content: string;
 }
@@ -28,3 +28,7 @@ export interface DeleteNoteIconProps extends ReactElement, ClientApiProps {
 }
 
 export interface CreateNoteProps extends ClientApiProps {}
+
+export interface NotePageProps extends ReactElement {
+  params: {id: string};
+}
